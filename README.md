@@ -1,8 +1,8 @@
 ### 🚗 ひっかけ免許クイズ
 
-運転免許の学科試験に出る「ひっかけ問題」を、ゲーム感覚で対策できるクイズアプリです。 
+運転免許の学科試験に出る「ひっかけ問題」を、ゲーム感覚で対策できるクイズアプリです。高校生などの初学者向けに、ポップな見た目とアニメーションで楽しく学べます。 
 
-https://[デプロイしたURLを貼る] 
+🔗 公開URL://driver-license-trick-quiz-ymv7.vercel.app/
 
 ※実際の試験とは異なります。正確な内容は教習所等の公式情報をご確認ください。 
 
@@ -18,7 +18,7 @@ https://[デプロイしたURLを貼る] 
 
 ### 使用技術
 
-React / TypeScript / Vite / Tailwind CSS / Vitest（テスト） / Oxlint 
+HTML / CSS / React / TypeScript / Vite / Tailwind CSS / Vitest（テスト） / Oxlint 
 
 30問のクイズデータ（○×26問・4択4問）を静的なJSON（src/data/questions.json）で管理しているため、API不要・完全無料で動作します。 
 
