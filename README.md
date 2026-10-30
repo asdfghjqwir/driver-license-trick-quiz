@@ -2,7 +2,7 @@
 
 運転免許の学科試験に出る「ひっかけ問題」を、ゲーム感覚で対策できるクイズアプリです。高校生などの初学者向けに、ポップな見た目とアニメーションで楽しく学べます。 
 
-🔗 公開URL://driver-license-trick-quiz-ymv7.vercel.app/
+🔗 公開URL:https://driver-license-trick-quiz-ymv7.vercel.app/
 
 ※実際の試験とは異なります。正確な内容は教習所等の公式情報をご確認ください。 
 
